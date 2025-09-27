@@ -1,0 +1,149 @@
+2025-05-13 13:17:46 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x516cc5100; archive(resolved)="<IDEArchive: 0x600039bd39c0>", distributionTask(resolved)="2", distributionDestination(resolved)="2", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (17, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x516cc5100; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x516c54f30; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3f1f15490; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x5105e2d00; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3e4d7d0e0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3813ea4d0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x512562ae0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3f1fe8dc0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x51250a1e0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x5190eee10; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x51115fed0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3f1f201b0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000e5c03c0; teamID='VLT2Z6LSH4', teamName='M Riza Levandy', teamType='Individual', username='rizalevandi2@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x5190e6af0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="(null)">
+	<IDEDistributionContext: 0x3e5a32bc0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000072d9820>", team="(null)">
+	<IDEDistributionContext: 0x38030a9a0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x3e62426c0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x3e52bd4f0; archive = "<IDEArchive: 0x600039bd39c0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x516cc5100>
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionCreateDestRootStep
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionCopyItemStep
+2025-05-13 13:17:46 +0000  Running /usr/bin/ditto '-V' '/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app'
+2025-05-13 13:17:46 +0000  >>> Copying /Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app 
+2025-05-13 13:17:46 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-05-13 13:17:46 +0000  2983 bytes for ./_CodeSignature/CodeResources
+2025-05-13 13:17:46 +0000  copying file ./AppIcon60x60@2x.png ... 
+2025-05-13 13:17:46 +0000  18661 bytes for ./AppIcon60x60@2x.png
+2025-05-13 13:17:46 +0000  copying file ./Assets.car ... 
+2025-05-13 13:17:46 +0000  8832128 bytes for ./Assets.car
+2025-05-13 13:17:46 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+25467 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./knewave.ttf ... 
+2025-05-13 13:17:46 +0000  38140 bytes for ./knewave.ttf
+2025-05-13 13:17:46 +0000  copying file ./MyMovieList ... 
+2025-05-13 13:17:46 +0000  919328 bytes for ./MyMovieList
+2025-05-13 13:17:46 +0000  copying file ./embedded.mobileprovision ... 
+2025-05-13 13:17:46 +0000  12838 bytes for ./embedded.mobileprovision
+2025-05-13 13:17:46 +0000  copying file ./Info.plist ... 
+2025-05-13 13:17:46 +0000  1539 bytes for ./Info.plist
+2025-05-13 13:17:46 +0000  copying file ./PkgInfo ... 
+2025-05-13 13:17:46 +0000  8 bytes for ./PkgInfo
+2025-05-13 13:17:46 +0000  /usr/bin/ditto exited with 0
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionEmbedProfileStep
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionInfoPlistStep
+2025-05-13 13:17:46 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionItemRemovalStep
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2025-05-13 13:17:46 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionSymbolsStep
+2025-05-13 13:17:46 +0000  Writing /var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Symbols/D2185443-A89D-3648-B43C-DC366572A88B.symbols
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionAppThinningStep
+2025-05-13 13:17:46 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionArchThinningStep
+2025-05-13 13:17:46 +0000  Item /Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-13 13:17:46 +0000  Archs to thin for item /Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app are ["arm64e"]
+2025-05-13 13:17:46 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app/MyMovieList' '-verify_arch' 'arm64e'
+2025-05-13 13:17:46 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-13 13:17:46 +0000  Skipping architecture thinning for item "MyMovieList" because arch "arm64e" wasn't found
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionODRStep
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionStripXattrsStep
+2025-05-13 13:17:46 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-13 13:17:46 +0000  Processing step: IDEDistributionCodesignStep
+2025-05-13 13:17:46 +0000  Entitlements for <IDEDistributionItem: 0x600039417a80; bundleID='com.codehasna.MyMovieList', path='<DVTFilePath:0x600045491b00:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000391be850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001458fd80; name='Apple Development: rizalevandi2@gmail.com (K8TLCU563S)', hash='BAE259CE3276E99821744BA4B0F106203A48AC64', serialNumber='F081834251B29F87BAA11B110534121', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-03-26 07:09:52 +0000''>', entitlements='{
+    "application-identifier" = "VLT2Z6LSH4.com.codehasna.MyMovieList";
+    "com.apple.developer.team-identifier" = VLT2Z6LSH4;
+    "get-task-allow" = 1;
+}', teamID='VLT2Z6LSH4', identifier='com.codehasna.MyMovieList', executablePath='<DVTFilePath:0x600045491c20:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app/MyMovieList'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "VLT2Z6LSH4.com.codehasna.MyMovieList";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = VLT2Z6LSH4;
+    "get-task-allow" = 0;
+}
+2025-05-13 13:17:46 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-13 13:17:46 +0000  Entitlements for <IDEDistributionItem: 0x600039417a80; bundleID='com.codehasna.MyMovieList', path='<DVTFilePath:0x600045491b00:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000391be850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001458cb40; name='Apple Development: rizalevandi2@gmail.com (K8TLCU563S)', hash='BAE259CE3276E99821744BA4B0F106203A48AC64', serialNumber='F081834251B29F87BAA11B110534121', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-03-26 07:09:52 +0000''>', entitlements='{
+    "application-identifier" = "VLT2Z6LSH4.com.codehasna.MyMovieList";
+    "com.apple.developer.team-identifier" = VLT2Z6LSH4;
+    "get-task-allow" = 1;
+}', teamID='VLT2Z6LSH4', identifier='com.codehasna.MyMovieList', executablePath='<DVTFilePath:0x600045491c20:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app/MyMovieList'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "VLT2Z6LSH4.com.codehasna.MyMovieList";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = VLT2Z6LSH4;
+    "get-task-allow" = 0;
+}
+2025-05-13 13:17:46 +0000  Writing entitlements for <IDEDistributionItem: 0x600039417a80; bundleID='com.codehasna.MyMovieList', path='<DVTFilePath:0x600045491b00:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000391be850; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001458ed00; name='Apple Development: rizalevandi2@gmail.com (K8TLCU563S)', hash='BAE259CE3276E99821744BA4B0F106203A48AC64', serialNumber='F081834251B29F87BAA11B110534121', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-03-26 07:09:52 +0000''>', entitlements='{
+    "application-identifier" = "VLT2Z6LSH4.com.codehasna.MyMovieList";
+    "com.apple.developer.team-identifier" = VLT2Z6LSH4;
+    "get-task-allow" = 1;
+}', teamID='VLT2Z6LSH4', identifier='com.codehasna.MyMovieList', executablePath='<DVTFilePath:0x600045491c20:'/Users/mrizalevandy/Library/Developer/Xcode/Archives/2025-05-13/MyMovieList 13-05-25, 20.17.xcarchive/Products/Applications/MyMovieList.app/MyMovieList'>', hardenedRuntime='0'>'> to: /var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/entitlements~~~GpY7XS
+2025-05-13 13:17:46 +0000  invoking codesign: <NSConcreteTask: 0x6000391aa490; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    CCAD5C1B8A5AA8D6F1135F63B0D7E29E3337461A,
+    "--entitlements",
+    "/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/entitlements~~~GpY7XS",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app"
+)'>
+2025-05-13 13:17:50 +0000  codesign output: /var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app: replacing existing signature
+/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app: signed app bundle with Mach-O thin (arm64) [com.codehasna.MyMovieList]
+2025-05-13 13:17:50 +0000  Processing step: IDEDistributionZipODRItemStep
+2025-05-13 13:17:50 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-13 13:17:50 +0000  Processing step: IDEDistributionCreateIPAStep
+2025-05-13 13:17:50 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Symbols' '--link-dest' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root'
+2025-05-13 13:17:50 +0000  Symbols/
+Symbols/D2185443-A89D-3648-B43C-DC366572A88B.symbols
+2025-05-13 13:17:50 +0000  /usr/bin/rsync exited with 0
+2025-05-13 13:17:50 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root' '/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Packages/MyMovieList.ipa'
+2025-05-13 13:17:50 +0000  >>> Copying /var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root 
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/_CodeSignature/CodeResources ... 
+2025-05-13 13:17:50 +0000  2983 bytes for ./Payload/MyMovieList.app/_CodeSignature/CodeResources
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/AppIcon60x60@2x.png ... 
+2025-05-13 13:17:50 +0000  18661 bytes for ./Payload/MyMovieList.app/AppIcon60x60@2x.png
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/Assets.car ... 
+2025-05-13 13:17:50 +0000  8832128 bytes for ./Payload/MyMovieList.app/Assets.car
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/AppIcon76x76@2x~ipad.png ... 
+2025-05-13 13:17:50 +0000  25467 bytes for ./Payload/MyMovieList.app/AppIcon76x76@2x~ipad.png
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/knewave.ttf ... 
+2025-05-13 13:17:50 +0000  38140 bytes for ./Payload/MyMovieList.app/knewave.ttf
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/MyMovieList ... 
+2025-05-13 13:17:50 +0000  919392 bytes for ./Payload/MyMovieList.app/MyMovieList
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/embedded.mobileprovision ... 
+2025-05-13 13:17:50 +0000  14336 bytes for ./Payload/MyMovieList.app/embedded.mobileprovision
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/Info.plist ... 
+2025-05-13 13:17:50 +0000  1539 bytes for ./Payload/MyMovieList.app/Info.plist
+2025-05-13 13:17:50 +0000  copying file ./Payload/MyMovieList.app/PkgInfo ... 
+2025-05-13 13:17:50 +0000  8 bytes for ./Payload/MyMovieList.app/PkgInfo
+2025-05-13 13:17:50 +0000  copying file ./Symbols/D2185443-A89D-3648-B43C-DC366572A88B.symbols ... 
+2025-05-13 13:17:50 +0000  2491492 bytes for ./Symbols/D2185443-A89D-3648-B43C-DC366572A88B.symbols
+2025-05-13 13:17:50 +0000  /usr/bin/ditto exited with 0
+2025-05-13 13:17:50 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2025-05-13 13:17:50 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-05-13 13:17:50 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-05-13 13:17:50 +0000  IDEDistributionItem init <DVTFilePath:0x600039416ac0:'/var/folders/23/twh6fjj958z6zzx2s6jh_1rh0000gn/T/XcodeDistPipeline.~~~w80eqW/Root/Payload/MyMovieList.app'>
+2025-05-13 13:17:50 +0000  Processing step: IDEDistributionCreateManifestStep
+2025-05-13 13:17:50 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
